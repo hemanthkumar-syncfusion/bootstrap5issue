@@ -1,0 +1,21 @@
+@import '../../node_modules/@syncfusion/ej2/material.css';
+
+/* .input-group.has-validation > :nth-last-child(n+3):not(.dropdown-toggle):not(.dropdown-menu):not(.form-floating),
+.input-group.has-validation > .dropdown-toggle:nth-last-child(n+4),
+.input-group.has-validation > .form-floating:nth-last-child(n+3) > .form-control,
+.input-group.has-validation > .form-floating:nth-last-child(n+3) > .form-select {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+} */
+
+/* @import '../../node_modules/bootstrap/dist/css/bootstrap-grid.css';
+@import '../../node_modules/bootstrap/dist/css/bootstrap-grid.rtl.css';
+@import '../../node_modules/bootstrap/dist/css/bootstrap-reboot.css';
+@import '../../node_modules/bootstrap/dist/css/bootstrap-reboot.rtl.css';
+@import '../../node_modules/bootstrap/dist/css/bootstrap-utilities.css';
+@import '../../node_modules/bootstrap/dist/css/bootstrap-utilities.rtl.css'; */
+
+@import '../../node_modules/bootstrap/dist/css/bootstrap.css';
+
+/* @import '../../node_modules/bootstrap/dist/css/bootstrap.rtl.css'; */
+
